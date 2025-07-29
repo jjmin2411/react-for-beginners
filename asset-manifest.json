@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-for-beginners/static/css/main.fbaab297.css",
-    "main.js": "/react-for-beginners/static/js/main.70fc0ec7.js",
+    "main.css": "/react-for-beginners/static/css/main.3d62ddbb.css",
+    "main.js": "/react-for-beginners/static/js/main.9a62d6ff.js",
     "index.html": "/react-for-beginners/index.html",
-    "main.fbaab297.css.map": "/react-for-beginners/static/css/main.fbaab297.css.map",
-    "main.70fc0ec7.js.map": "/react-for-beginners/static/js/main.70fc0ec7.js.map"
+    "main.3d62ddbb.css.map": "/react-for-beginners/static/css/main.3d62ddbb.css.map",
+    "main.9a62d6ff.js.map": "/react-for-beginners/static/js/main.9a62d6ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbaab297.css",
-    "static/js/main.70fc0ec7.js"
+    "static/css/main.3d62ddbb.css",
+    "static/js/main.9a62d6ff.js"
   ]
 }
